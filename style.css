@@ -1,0 +1,98 @@
+body {
+    background:linear-gradient(-45deg,#ffbc00,#ff0058);
+    height:1000px;
+    width:350px;
+    }
+    
+    p.Marsh{
+    opacity:1;
+    font-style:italic;
+    font-family:cursive;
+    font-variant:small-caps;
+    color:white;
+    
+    
+    }
+    
+    .Marshmello{
+    text-align:center;
+    opacity:1;
+    margin-top:10%;
+    box-shadow:5px 0px 25px 0px;
+    width:300px;
+    height:185px;
+    
+    }
+    
+    p.Mello{
+    color:black;
+    background:white;
+    opacity:1;
+    padding:10px;
+    width:135px;
+    box-shadow:1px 1px 5px 2px ;
+    font-variant:small-caps;
+    border-radius:15px 1px 15px 1px;
+    text-decoration:none;
+    }
+    
+    a:link{
+    text-decoration:none;
+    color:black;
+    }
+    
+    p.Khalid{
+    color:white;
+    background:black;
+    opacity:1;
+    padding:10px;
+    width:135px;
+    box-shadow:1px 1px 5px 2px white;
+    font-variant:small-caps;
+    border-radius:1px 15px 1px 15px;
+    margin-top:-17%;
+    }
+    
+    p.Khalid{
+    margin-left:63%;
+    }
+    
+    p.Music{
+    color:black;
+    background:white;
+    padding:10px;
+    width:100px;
+    font-variant:small-caps;
+    font-size:15px;
+    border:solid 2px black;
+    border-radius:35px 1px 35px;
+    }
+    
+    audio {
+    border:solid 2px black;
+    border-radius:50px;
+    }
+    
+    iframe {
+    border-radius:35px 1px 35px;
+    box-shadow:1px 1px 10px 0px white;
+    }
+    
+    .fab fa-youtube{
+    text-align:center;
+    margin-left:30%;
+    }
+    .polosa{
+        width: 22em;
+        height: 0.2em;
+        background-color: yellowgreen;
+        border-radius: 0.5em;
+    }
+    
+    .o{
+        width: 7em;
+        height: 3.5em;
+        background-color: teal;
+color: turquoise;
+border-radius: 1em;
+    }
